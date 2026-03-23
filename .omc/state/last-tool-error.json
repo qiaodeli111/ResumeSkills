@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"which pandoc weasyprint libreoffice 2>/dev/null; python3 -c \\\"import weasyprint; print('weasyprint ok')\\\" 2>/dev/null; python3 -c \\\"import docx2pdf; print('docx2pdf ok')\\\" 2>/dev/null\",\"de...",
+  "error": "Exit code 1\npandoc not found\nweasyprint not found\n/usr/bin/libreoffice\n\npandoc not found\nweasyprint not found\n/usr/bin/libreoffice",
+  "timestamp": "2026-03-19T06:29:31.543Z",
+  "retry_count": 2
+}

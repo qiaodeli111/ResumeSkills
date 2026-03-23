@@ -1,0 +1,95 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1774245804943,
+  "projectRoot": "/home/deliqiao/jetdev/github/ResumeSkills",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "output": {
+      "path": "output",
+      "purpose": null,
+      "fileCount": 11,
+      "lastAccessed": 1774245804909,
+      "keyFiles": [
+        "generate_resume.py",
+        "job_search_strategy.md",
+        "resume_en.docx",
+        "resume_en.md",
+        "resume_en.pdf"
+      ]
+    },
+    "skills": {
+      "path": "skills",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1774245804923,
+      "keyFiles": []
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "output/resume_en.md",
+      "accessCount": 1,
+      "lastAccessed": 1774246010042,
+      "type": "file"
+    },
+    {
+      "path": "output/resume_gap_analysis.md",
+      "accessCount": 1,
+      "lastAccessed": 1774246010247,
+      "type": "file"
+    },
+    {
+      "path": "output/tech_stack_analysis.md",
+      "accessCount": 1,
+      "lastAccessed": 1774246016432,
+      "type": "file"
+    },
+    {
+      "path": "output/resume_zh.md",
+      "accessCount": 1,
+      "lastAccessed": 1774246016950,
+      "type": "file"
+    },
+    {
+      "path": "面试准备/01_JD匹配分析与面试策略.md",
+      "accessCount": 1,
+      "lastAccessed": 1774246112585,
+      "type": "file"
+    },
+    {
+      "path": "面试准备/02_双语面试问答准备.md",
+      "accessCount": 1,
+      "lastAccessed": 1774246211762,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}

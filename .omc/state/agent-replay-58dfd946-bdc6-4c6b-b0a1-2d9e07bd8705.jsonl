@@ -1,0 +1,13 @@
+{"t":0,"agent":"a572fd3","agent_type":"analyst","event":"agent_start","parent_mode":"none"}
+{"t":0,"agent":"af8332c","agent_type":"career-advisor","event":"agent_start","parent_mode":"none"}
+{"t":0,"agent":"a572fd3","agent_type":"analyst","event":"agent_stop","success":true,"duration_ms":158214}
+{"t":0,"agent":"a15a2e2","agent_type":"analyst","event":"agent_start","parent_mode":"none"}
+{"t":0,"agent":"af8332c","agent_type":"career-advisor","event":"agent_stop","success":true,"duration_ms":182676}
+{"t":0,"agent":"a1b1a02","agent_type":"career-advisor","event":"agent_start","parent_mode":"none"}
+{"t":0,"agent":"a15a2e2","agent_type":"analyst","event":"agent_stop","success":true,"duration_ms":166465}
+{"t":0,"agent":"a59462f","agent_type":"analyst","event":"agent_start","parent_mode":"none"}
+{"t":0,"agent":"a59462f","agent_type":"analyst","event":"agent_stop","success":true,"duration_ms":9671}
+{"t":0,"agent":"a7a7a6d","agent_type":"analyst","event":"agent_start","parent_mode":"none"}
+{"t":0,"agent":"a7a7a6d","agent_type":"analyst","event":"agent_stop","success":true,"duration_ms":4686}
+{"t":0,"agent":"aa375e0","agent_type":"analyst","event":"agent_start","parent_mode":"none"}
+{"t":0,"agent":"aa375e0","agent_type":"analyst","event":"agent_stop","success":true,"duration_ms":2069}
